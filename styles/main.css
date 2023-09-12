@@ -151,7 +151,7 @@ button:active {
 }
 
 .six .hat {
-    left: 50%;
+    left: 90%;
     position: absolute;
     /* transform: scale(0.1); */
     top: -35%;
